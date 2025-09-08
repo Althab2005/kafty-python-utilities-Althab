@@ -1,0 +1,1 @@
+{"transactions": [{"date": "2005-03-23", "category": "income", "description": "coffee", "amount": 80.0, "type": "income"}, {"date": "12-12-2025", "category": "food", "description": "dosa", "amount": 60.0, "type": "expense"}], "total_income": 80.0, "total_expense": 60.0}
